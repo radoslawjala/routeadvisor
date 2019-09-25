@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RouteAdvisor</string>
+    <string name="title_activity_maps">RouteAdvisor</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="activity_title_home">Trasy</string>
+    <string name="msg_no_notes">Brak zapisanych tras!</string>
+    <string name="lbl_new_note_title">Nowa trasa</string>
+    <string name="lbl_edit_note_title">Edycja</string>
+    <string name="hint_enter_note">Wprowadź nazwę</string>
+    <string name="time_new_route">Czas</string>
+    <string name="distance_new_route">Dystans</string>
+    <string name="start_location">lokalizacja start</string>
+    <string name="start_new_route">start</string>
+    <string name="stop_new_route">stop</string>
+    <string name="start_route">start</string>
+    <string name="stop_route">stop</string>
+    <string name="time_left">Czas</string>
+    <string name="distance">Dystans</string>
+</resources>
